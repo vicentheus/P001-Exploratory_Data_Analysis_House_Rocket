@@ -6,7 +6,7 @@ Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios 
 
 ​A logo criada é fictícia.
 
-O projeto foi colocado em produção através do Heroku.
+O projeto foi colocado em produção através do [Heroku] (https://project-analytics-hrocket.herokuapp.com/)
 
 
 ## 1. Descrição
